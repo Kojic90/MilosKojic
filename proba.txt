@@ -1,2 +1,3 @@
 Moj prvi text fajl.
 novo kucanje
+Izmena u novoj grani (New-Branch).
